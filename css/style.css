@@ -26,7 +26,7 @@ h1 {
     height: 100%;
     position: fixed;
     z-index: 9999;
-    background: url("../images/loding.gif") no-repeat center center rgb(255, 255, 255);
+    background: url("") no-repeat center center rgb(255, 255, 255);
     background-size: 20%;
     opacity: 95%;
 }
@@ -38,7 +38,7 @@ h1 {
 /*---------------------------------*/
 
 .header {
-    background-color: #7B726D;
+    background-color: #117108ff;
     padding: 1px;
     height: 93px;
     text-align: center;
@@ -74,7 +74,7 @@ h1 {
 
 .menu a:hover {
     color: #cfc4bc;
-    background-color: #7B726D;
+    background-color: #117108ff;
 }
 
 .dropdown-menu a:link {
