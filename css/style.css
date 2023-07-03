@@ -73,18 +73,18 @@ h1 {
 }
 
 .menu a:hover {
-    color: #cfc4bc;
+    color: #ffffffff;
     background-color: #117108ff;
 }
 
 .dropdown-menu a:link {
-    color: #d9e5c2ff;
+    color: #ffffff;
     background-color: #ffffff;
     
 }
 
 .dropdown-menu a:link:hover {
-    color: #4e4743;
+    color: #117108ff;
     background-color:#ffffff;
 }
 
@@ -93,7 +93,7 @@ h1 {
 }
 
 .button-menu {
-    background-color: #117108ff;
+    background-color: #c8f3ccff;
     border: none;
     padding: 10px;
     padding-left: 20px;
