@@ -289,16 +289,16 @@ h1 {
 .quran p {
     margin: 60px 60px 60px 60px;
     line-height: 2.8;
-    color: #7B726D
+    color: #117108ff
 }
 
 .quran h1 {
     margin: 60px 60px 60px 60px;
-    color: #7B726D
+    color: #117108ff
 }
 
 .quran_info {
-    background-color: #eef8e1;
+    background-color: #117108ff;
     padding: 7px;
     border-radius: 20px;
     margin: 60px 60px 60px 60px;
@@ -328,7 +328,7 @@ h1 {
     padding: 10px;
     box-shadow: 0px 5px 26px 0px rgba(0, 0, 0, 0.041);
     border-radius: 10px;
-    color: #7B726D;
+    color: #117108ff;
     margin: 20px 20px 20px 20px;
     word-wrap: break-word;
 }
