@@ -589,11 +589,11 @@ h1 {
 
 .fot-menu a {
     text-decoration: none;
-    color: #7B726D;
+    color: #117108ff;;
 }
 
 .fot-menu a:hover {
-    color: #4b4340;
+    color: #117108ff;;
 }
 
 .go-top {
@@ -604,7 +604,7 @@ h1 {
     font-size: 15px;
     border: none;
     outline: none;
-    background-color: #7B726D;
+    background-color: #117108ff;
     color: white;
     cursor: pointer;
     padding: 10px;
@@ -631,11 +631,11 @@ h1 {
     text-align: center;
     margin: 0px 20px 0px 20px;
     font-size: 25px;
-    color: #a3a3a3;
+    color: #117108ff;
 }
 
 .Social-Media a:hover {
-    color: #7B726D;
+    color: #117108ff;
 }
 
 
