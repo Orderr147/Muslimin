@@ -337,13 +337,13 @@ h1 {
     margin: 20px 20px 20px 20px;
     font-size: 20px;
     font-weight: 800;
-    color: #a8b988;
+    color: #117108ff;
     text-shadow: 2px 1px 6px rgba(0, 0, 0, 0.041);
 }
 
 .table button {
     font-size: 18px;
-    background-color: #7B726D;
+    background-color: #117108ff;
     color: #ffffff;
     border: none;
     padding: 5px;
@@ -437,7 +437,7 @@ h1 {
     justify-content: center;
     /* center items horizontally, in this case */
     align-items: center;
-    color: #a3a3a3;
+    color: #117108ff;
 }
 
 .altaqwaa_madia li {
