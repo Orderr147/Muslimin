@@ -412,7 +412,7 @@ h1 {
     color: rgb(255, 255, 255);
     text-shadow: 2px 1px 6px rgba(0, 0, 0, 0.247);
     font-style: normal;
-    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), #117108ff, rgba(255, 0, 0, 0));
+    background-image: linear-gradient(to right, rgba#117108ff, #117108ff, #117108ff);
 }
 
 .pdf_text a {
