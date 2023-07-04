@@ -261,7 +261,7 @@ h1 {
 
 .table th:hover,
 .table td:hover {
-    background-color: #117108ff;
+    background-color: #ffffff;
 }
 
 .table tr:nth-child(even) {
