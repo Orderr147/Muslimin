@@ -133,7 +133,7 @@ h1 {
 
 .body a {
     font-size: 11px;
-    color: rgb(151, 151, 151);
+    color: #117108ff;
     text-decoration: none;
 }
 
@@ -219,7 +219,7 @@ h1 {
 
 .table a {
     font-size: 14px;
-    color: rgb(151, 151, 151);
+    color: #117108ff;
     font-weight: 600;
 }
 
