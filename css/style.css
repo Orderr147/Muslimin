@@ -244,7 +244,7 @@ h1 {
     border-color: #ffffff;
     padding: 16px;
     font-size: 16px;
-    color: rgb(110, 110, 110);
+    color: #117108ff;
 }
 
 .table td {
@@ -255,13 +255,13 @@ h1 {
     border-color: #ddd;
     padding: 16px;
     font-size: 14px;
-    color: rgb(151, 151, 151);
+    color: #117108ff;
     font-weight: 600;
 }
 
 .table th:hover,
 .table td:hover {
-    background-color: rgba(221, 221, 221, 0.144);
+    background-color: #117108ff;
 }
 
 .table tr:nth-child(even) {
@@ -471,7 +471,7 @@ h1 {
 .massage_bot {
     margin-top: 20px;
     margin-bottom: 38px;
-    color: rgb(88, 88, 88);
+    color: #117108ff;
     font-size: 15px;
     font-weight: bold;
 }
@@ -519,7 +519,7 @@ h1 {
 #massage_bot2 {
     margin-top: 30px;
     margin-bottom: 38px;
-    color: rgb(117, 117, 117);
+    color: #117108ff;
     font-size: 15px;
     font-weight: bold;
 }
@@ -527,7 +527,7 @@ h1 {
 #massage_bot2 i {
     margin-top: 30px;
     margin-bottom: 38px;
-    color: rgb(117, 117, 117);
+    color: #117108ff;
     font-size: 30px;
     font-weight: bold;
 }
