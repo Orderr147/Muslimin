@@ -279,11 +279,11 @@ h1 {
 }
 
 .quran {
-    background-color: #117108ff;
+    background-color: #ffffff;
     padding: 7px;
     border-radius: 20px;
     margin: 60px 60px 60px 60px;
-    box-shadow: 0px 5px 26px 0px #ffffff;
+    box-shadow: 0px 5px 26px 0px #117108ff;
 }
 
 .quran p {
