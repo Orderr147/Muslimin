@@ -279,11 +279,11 @@ h1 {
 }
 
 .quran {
-    background-color: #ffffff;
+    background-color: #117108ff;
     padding: 7px;
     border-radius: 20px;
     margin: 60px 60px 60px 60px;
-    box-shadow: 0px 5px 26px 0px #117108ff;
+    box-shadow: 0px 5px 26px 0px #ffffff;
 }
 
 .quran p {
@@ -302,7 +302,7 @@ h1 {
     padding: 7px;
     border-radius: 20px;
     margin: 60px 60px 60px 60px;
-    box-shadow: 0px 5px 26px 0px #117108ff;
+    box-shadow: 0px 5px 26px 0px #ffffff;
 }
 
 .quran_info ul {
@@ -324,7 +324,7 @@ h1 {
     width: calc(90% / 3);
     text-align: center;
     margin-bottom: 50px;
-    background-color: #117108ff;
+    background-color: #ffffff;
     padding: 10px;
     box-shadow: 0px 5px 26px 0px #117108ff;
     border-radius: 10px;
