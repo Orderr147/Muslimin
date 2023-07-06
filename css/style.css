@@ -219,7 +219,7 @@ h1 {
 
 .table a {
     font-size: 14px;
-    color: #117108ff;
+    color: #ffffff;
     font-weight: 600;
 }
 
@@ -275,7 +275,7 @@ h1 {
     margin-right: 40px;
     font-size: 17px;
     color: #ffffff;
-    text-shadow: 1px 1px 6px #ffffff;
+    text-shadow: 1px 1px 6px #117108ff;
 }
 
 .quran {
